@@ -6,7 +6,7 @@ compatibility_flags = ["nodejs_compat"]
 # 自定义域名（可选，推荐配置）
 # 取消注释并替换为你自己的域名和 Zone ID
 routes = [
-  { pattern = "tvbox.30cm.com/*", zone_id = "5b29e836e4c04247b10eec98c8daed0d" }
+  { pattern = "tvbox.30cm.com/*", zone_id = "a6b60bd7b5026b947575cc56b4da0c0d" }
    ]
 
 [triggers]
