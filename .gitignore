@@ -25,3 +25,4 @@ android/app/libnode/bin/
 .claude/feedback/
 dev-log/
 .claude/.needs-review
+pnpm-lock.yaml
